@@ -1,0 +1,5 @@
+train: /Users/rilo/yolov8_env/yolov8_custom_model/cats/train/images
+val: /Users/rilo/yolov8_env/yolov8_custom_model/cats/valid/images
+ 
+nc: 1
+names: ['cat']
