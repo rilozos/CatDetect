@@ -14,6 +14,6 @@ Welcome to the CatDetect GitHub repository! CatDetect is a cutting-edge object d
 ### Integrate with Snapchat
 
 1. Open Snapchat Lens Studio and create a new project.
-2. Import the CatDetect model into your project.
+2. Import the CatDetect model into your project using the catdetect.onnx file.
 3. Follow the [official Lens Studio documentation]([https://lensstudio.snapchat.com/guides/](https://docs.snap.com/lens-studio/references/templates/ml/custom-segmentation#importing-your-model)) to link the model output to your lens effects.
 4. Test the lens in the Lens Studio preview or on your device.
